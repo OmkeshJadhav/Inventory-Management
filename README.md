@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Inventory Management Application
+
+Tech stack used
+
+1. Next.js : npm create-next-app@latest
+2. MUi data Grid for tables : npm i @mui/x-data-grid
+3. @mui/material
+4. @emotion/react
+5. @emotion/styled
+6. Icon library : lucide-react
+7. Manipulate numbers : numeral
+8. CHarting library : recharts
+9. To generate different ids : uuid
+10. To make API calss : axios
+11. npm i -D @types/node
+12. npm i -D @types/uuid
+13. npm i -D @types/numeral
+
+<!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -33,4 +51,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
