@@ -15,6 +15,7 @@ Tech stack used
 11. npm i -D @types/node
 12. npm i -D @types/uuid
 13. npm i -D @types/numeral
+14. npm i -D tw-colors
 
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
